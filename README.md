@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vleft</h1>
 <h3 align="center">Currently a CS student AUEB interested in the field of Software Development</h3>
 
-- 🌱 I’m currently learning **Express framework, Unity, Machine Learning**
+- 🌱 Currently working on Distirbuted Booking Application 
 
 - 📫 How to reach me **vleftakis@gmail.com**
 
