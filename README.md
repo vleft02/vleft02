@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm vleft</h1>
 <h3 align="center">Currently a CS student AUEB interested in the field of Software Development</h3>
 
-- 📫 How to reach me **vleftakis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
